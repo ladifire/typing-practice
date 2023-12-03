@@ -5508,7 +5508,7 @@ THE SOFTWARE.
         }
           , o = function(t) {
             i && (e(i, function(t) {
-                t.removeClass("typebox-active")
+                t.removeClass("typebox-active");
             }),
             i[t].addClass("typebox-active"))
         }
@@ -6266,7 +6266,7 @@ THE SOFTWARE.
             i && (e(i, function(t) {
                 t.removeClass("typebox-active")
             }),
-            i[t].addClass("typebox-active"))
+            i[t].addClass("typebox-active typed"))
         }
           , c = function() {
             i && e(i, function(t) {
