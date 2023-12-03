@@ -6705,7 +6705,7 @@ THE SOFTWARE.
                 next: "lesson-3",
                 template: "lesson-2",
                 lesson: true,
-                text: "j k l ; l j k ; j l j k jk jl j; lk ;j jl kj jk ;j l; kl jl kj j klj kk j lj k klj jk; kkj jlk llj kjj ;k lj jk kj lk jj l kjl",
+                text: "j k l ; l j k ; j l j k jk jl j; lk ;j jl kj jk ;j l; kl jl kj j klj kk j lj k klj jk; kkj jlk llj kjj ;k lj jk kj lk jj l kjl kkj klj llk ljk ;l;j ;jjk jkkl jljk j;;lk j k l ;l ;; kk j;j kllj k;k ;kj kjllk; kjll;; kkjjj kkllk; jljlllk; ; kjj",
                 keys: {
                     active: ["J", "K", "L", ";", "Space"],
                     "new": ["J", "K", "L", ";"]
@@ -6717,7 +6717,7 @@ THE SOFTWARE.
                 next: "lesson-4",
                 template: "lesson-3",
                 lesson: true,
-                text: "all salads flask; jasks flak sad fall klad lad dajd aj jal safs; fads salks jads flads dj ask; dallas salad kalds afls;",
+                text: "all salads flask; jasks flak sad fall klad lad dajd aj jal safs; fads salks jads flads dj ask; dallas salad kalds afls; ajjks lkjad lk;afjk ;alkfj ;lkjss lskjfs ;lkjaafds lsskjfa; ks lss kdf jkas sl;ka kssl ddllsskdf a;lllsdjk la;lkfa ls a;kss aa;lsk sllsf l;lk fllkd llffkj ;;lkfsj ;alkkj lsskkf lskjl;",
                 keys: {
                     active: ["A", "S", "D", "F", "J", "K", "L", ";", "Space"]
                 }
