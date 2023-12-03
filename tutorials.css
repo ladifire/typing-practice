@@ -73,7 +73,7 @@
   display: inline-block; }
 
 .typebox-character {
-  display: inline; }
+  display: inline-block; }
 
 .typebox-active {
   color: red;
