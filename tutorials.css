@@ -61,12 +61,14 @@
   width: 18.6em; }
 
 .typebox-container {
+  max-width: 1400px;
   border: solid 2px #333333;
   padding: 10px;
   font-size: 20px;
   vertical-align: top;
   margin-bottom: 20px;
-  font-family: monospace; }
+  font-family: monospace; 
+}
 
 .typebox-word {
   display: inline-block; }
@@ -101,7 +103,7 @@ a {
   text-decoration: none; }
 
 .sidebar {
-  display: table-cell;
+  /* display: table-cell; */
   height: 100%;
   width: 200px;
   color: #198cff;
@@ -222,7 +224,12 @@ li {
     display: block; }
 
 .page-container .instruction-container {
-  display: block; }
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+ }
 
 .page-container .exercise-container {
   display: none; }
@@ -294,7 +301,12 @@ li {
   font-size: 24px; }
 
 .controls-container {
-  position: relative; }
+  position: relative; 
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
 
 .overlay-container {
   display: none;
@@ -494,7 +506,7 @@ li {
 
 @media (min-width: 1101px) {
   .main {
-    width: 890px; }
+    width: 100%; }
   .cueboard, .cueboard * {
     font-size: 16px; } }
 
