@@ -61,12 +61,11 @@
   width: 18.6em; }
 
 .typebox-container {
-  max-width: 1400px;
   border: solid 2px #333333;
-  padding: 10px;
+  padding: 2rem;
   /* font-size: 20px; */
   vertical-align: top;
-  margin-bottom: 20px;
+  margin-bottom: 3rem;
   /* font-family: monospace;  */
 }
 
@@ -303,7 +302,8 @@ li {
 
 .typebox {
   /* font-family: monospace, sans-serif; */
-  font-size: 32px; }
+  font-size: 86px; 
+}
 
 .controls-container {
   position: relative; 
